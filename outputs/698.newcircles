@@ -1,0 +1,134 @@
+circle0: 828,
+Number of common features:14
+2 education;classes;id;anonymized feature 335
+3 education;classes;id;anonymized feature 336
+6 education;school;id;anonymized feature 340
+7 education;school;id;anonymized feature 341
+9 education;school;id;anonymized feature 342
+12 education;type;anonymized feature 53
+14 education;type;anonymized feature 55
+15 education;with;id;anonymized feature 350
+26 gender;anonymized feature 77
+28 hometown;id;anonymized feature 359
+34 locale;anonymized feature 127
+35 location;id;anonymized feature 359
+41 work;end_date;anonymized feature 157
+45 work;start_date;anonymized feature 157
+
+circle1: 885,
+Number of common features:12
+13 education;type;anonymized feature 54
+14 education;type;anonymized feature 55
+16 education;year;id;anonymized feature 59
+26 gender;anonymized feature 77
+30 languages;id;anonymized feature 92
+34 locale;anonymized feature 127
+38 work;employer;id;anonymized feature 373
+41 work;end_date;anonymized feature 157
+42 work;end_date;anonymized feature 161
+43 work;location;id;anonymized feature 374
+46 work;start_date;anonymized feature 375
+47 work;start_date;anonymized feature 196
+
+circle2: 888,
+Number of common features:14
+0 birthday;anonymized feature 2
+10 education;school;id;anonymized feature 370
+11 education;school;id;anonymized feature 348
+12 education;type;anonymized feature 53
+13 education;type;anonymized feature 54
+14 education;type;anonymized feature 55
+19 education;year;id;anonymized feature 61
+20 education;year;id;anonymized feature 64
+22 education;year;id;anonymized feature 259
+27 gender;anonymized feature 78
+29 hometown;id;anonymized feature 366
+33 locale;anonymized feature 126
+36 location;id;anonymized feature 366
+41 work;end_date;anonymized feature 157
+
+circle3: 713,745,719,
+Number of common features:6
+6 education;school;id;anonymized feature 340
+7 education;school;id;anonymized feature 341
+12 education;type;anonymized feature 53
+14 education;type;anonymized feature 55
+26 gender;anonymized feature 77
+35 location;id;anonymized feature 359
+
+circle4: 873,874,
+Number of common features:5
+13 education;type;anonymized feature 54
+14 education;type;anonymized feature 55
+18 education;year;id;anonymized feature 60
+27 gender;anonymized feature 78
+43 work;location;id;anonymized feature 374
+
+circle5: 871,884,
+Number of common features:5
+11 education;school;id;anonymized feature 348
+12 education;type;anonymized feature 53
+26 gender;anonymized feature 77
+30 languages;id;anonymized feature 92
+34 locale;anonymized feature 127
+
+circle6: 747,774,
+Number of common features:8
+2 education;classes;id;anonymized feature 335
+3 education;classes;id;anonymized feature 336
+6 education;school;id;anonymized feature 340
+9 education;school;id;anonymized feature 342
+12 education;type;anonymized feature 53
+14 education;type;anonymized feature 55
+24 first_name;anonymized feature 355
+27 gender;anonymized feature 78
+
+circle7: 877,881,895,
+Number of common features:7
+12 education;type;anonymized feature 53
+14 education;type;anonymized feature 55
+20 education;year;id;anonymized feature 64
+21 education;year;id;anonymized feature 71
+27 gender;anonymized feature 78
+33 locale;anonymized feature 126
+41 work;end_date;anonymized feature 157
+
+circle8: 893,825,860,863,857,810,866,879,883,858,864,865,868,
+Number of common features:2
+27 gender;anonymized feature 78
+34 locale;anonymized feature 127
+
+circle9: 804,856,
+Number of common features:8
+4 education;concentration;id;anonymized feature 14
+11 education;school;id;anonymized feature 348
+12 education;type;anonymized feature 53
+14 education;type;anonymized feature 55
+20 education;year;id;anonymized feature 64
+22 education;year;id;anonymized feature 259
+27 gender;anonymized feature 78
+34 locale;anonymized feature 127
+
+circle10: 862,870,
+Number of common features:5
+4 education;concentration;id;anonymized feature 14
+12 education;type;anonymized feature 53
+14 education;type;anonymized feature 55
+27 gender;anonymized feature 78
+34 locale;anonymized feature 127
+
+circle11: 803,876,830,887,889,840,729,708,878,697,805,880,753,872,875,800,882,823,886,772,
+Number of common features:1
+26 gender;anonymized feature 77
+33 locale;anonymized feature 126
+
+circle12: 867,776,
+Number of common features:7
+8 education;school;id;anonymized feature 369
+12 education;type;anonymized feature 53
+13 education;type;anonymized feature 54
+17 education;year;id;anonymized feature 255
+34 locale;anonymized feature 127
+38 work;employer;id;anonymized feature 373
+41 work;end_date;anonymized feature 157
+

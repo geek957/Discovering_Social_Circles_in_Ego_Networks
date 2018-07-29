@@ -1,0 +1,206 @@
+circle0: 2774,
+Number of common features:21
+76 education;school;id;anonymized feature 236
+101 education;type;anonymized feature 53
+103 education;type;anonymized feature 55
+110 education;year;id;anonymized feature 62
+114 education;year;id;anonymized feature 66
+148 gender;anonymized feature 78
+228 locale;anonymized feature 127
+250 location;id;anonymized feature 1095
+257 work;employer;id;anonymized feature 1155
+273 work;end_date;anonymized feature 676
+275 work;end_date;anonymized feature 158
+282 work;end_date;anonymized feature 201
+286 work;location;id;anonymized feature 935
+289 work;location;id;anonymized feature 176
+297 work;position;id;anonymized feature 193
+301 work;start_date;anonymized feature 675
+305 work;start_date;anonymized feature 310
+308 work;start_date;anonymized feature 196
+311 work;start_date;anonymized feature 164
+313 work;start_date;anonymized feature 166
+314 work;start_date;anonymized feature 201
+
+circle1: 3078,
+Number of common features:22
+5 birthday;anonymized feature 6
+57 education;school;id;anonymized feature 1029
+70 education;school;id;anonymized feature 1040
+73 education;school;id;anonymized feature 1042
+101 education;type;anonymized feature 53
+103 education;type;anonymized feature 55
+112 education;year;id;anonymized feature 64
+116 education;year;id;anonymized feature 69
+142 first_name;anonymized feature 1082
+148 gender;anonymized feature 78
+154 hometown;id;anonymized feature 935
+216 last_name;anonymized feature 1129
+227 locale;anonymized feature 126
+274 work;end_date;anonymized feature 294
+277 work;end_date;anonymized feature 197
+279 work;end_date;anonymized feature 198
+281 work;end_date;anonymized feature 166
+286 work;location;id;anonymized feature 935
+302 work;start_date;anonymized feature 307
+304 work;start_date;anonymized feature 195
+305 work;start_date;anonymized feature 310
+307 work;start_date;anonymized feature 1171
+
+circle2: 3205,
+Number of common features:22
+19 education;concentration;id;anonymized feature 388
+100 education;school;id;anonymized feature 538
+101 education;type;anonymized feature 53
+102 education;type;anonymized feature 54
+103 education;type;anonymized feature 55
+108 education;year;id;anonymized feature 60
+109 education;year;id;anonymized feature 61
+114 education;year;id;anonymized feature 66
+116 education;year;id;anonymized feature 69
+148 gender;anonymized feature 78
+184 languages;id;anonymized feature 101
+228 locale;anonymized feature 127
+241 location;id;anonymized feature 176
+271 work;employer;id;anonymized feature 538
+279 work;end_date;anonymized feature 198
+281 work;end_date;anonymized feature 166
+289 work;location;id;anonymized feature 176
+299 work;start_date;anonymized feature 718
+300 work;start_date;anonymized feature 1170
+304 work;start_date;anonymized feature 195
+312 work;start_date;anonymized feature 199
+314 work;start_date;anonymized feature 201
+
+circle3: 2907,3426,
+Number of common features:10
+70 education;school;id;anonymized feature 1040
+101 education;type;anonymized feature 53
+103 education;type;anonymized feature 55
+118 education;year;id;anonymized feature 72
+148 gender;anonymized feature 78
+154 hometown;id;anonymized feature 935
+228 locale;anonymized feature 127
+281 work;end_date;anonymized feature 166
+284 work;end_date;anonymized feature 170
+286 work;location;id;anonymized feature 935
+
+circle4: 3010,3080,3394,
+Number of common features:9
+6 birthday;anonymized feature 7
+66 education;school;id;anonymized feature 1037
+101 education;type;anonymized feature 53
+103 education;type;anonymized feature 55
+113 education;year;id;anonymized feature 65
+154 hometown;id;anonymized feature 935
+225 last_name;anonymized feature 1138
+228 locale;anonymized feature 127
+264 work;employer;id;anonymized feature 1160
+
+circle5: 3049,3146,
+Number of common features:12
+28 education;concentration;id;anonymized feature 1011
+100 education;school;id;anonymized feature 538
+101 education;type;anonymized feature 53
+103 education;type;anonymized feature 55
+106 education;year;id;anonymized feature 59
+113 education;year;id;anonymized feature 65
+176 languages;id;anonymized feature 1102
+228 locale;anonymized feature 127
+251 location;id;anonymized feature 617
+281 work;end_date;anonymized feature 166
+289 work;location;id;anonymized feature 176
+312 work;start_date;anonymized feature 199
+
+circle6: 3404,3021,3117,3240,3247,3296,2990,3007,3371,3410,3344,3359,3391,2670,3207,3110,2832,2853,2742,3365,3345,2733,2791,2876,3275,3378,2770,3112,2828,2900,3334,3145,3374,3266,2799,3209,2695,2760,2886,2973,2830,3244,3356,2747,2831,3086,3239,3102,3279,3272,2739,3165,3216,2861,3197,3210,3310,3008,3103,3120,2687,2685,3278,2842,3107,3357,2899,3028,3119,2878,2785,2856,3211,2715,2795,2735,3041,3392,3433,3417,3252,2913,3185,3139,3140,2930,3288,2746,2889,2982,3318,3168,3260,2717,2778,2840,3137,2788,2732,3181,2775,3184,2806,2919,3412,2667,3335,3406,2910,3067,3122,3218,2713,2916,2923,2931,2940,2946,2950,2958,2965,2975,2976,2980,2992,2997,3018,3037,3046,3048,3073,3081,3088,3094,3100,3101,3116,3124,3126,1505,3133,3138,3144,3148,3150,3151,3167,3172,3178,3188,3191,3215,3224,3228,3245,3292,3312,3320,3330,3336,3342,3346,3353,3358,3372,3402,3409,3421,3423,3429,2664,2665,2671,2716,2727,2783,2790,2818,2835,2851,1419,2882,2897,2909,2772,2875,2986,3089,3109,3136,3241,3251,3295,3309,3360,3418,2728,2947,3016,3367,2879,2703,2699,3382,3325,2959,3314,3121,2881,2971,3261,3162,2719,3306,3415,2844,3267,3203,3385,2762,2686,3255,2780,2951,3242,3369,3379,3198,3321,2847,2932,2901,3381,3082,2803,3043,
+Number of common features:2
+147 gender;anonymized feature 77
+228 locale;anonymized feature 127
+
+circle7: 1726,1656,3222,3204,3079,1450,3233,3350,3403,2707,2848,3147,2948,3237,3315,2763,3286,2891,2798,3333,2922,3234,3322,2722,3308,3076,3386,3225,3366,2754,2804,3302,2998,3186,3156,3161,3273,107,2893,
+Number of common features:4
+101 education;type;anonymized feature 53
+103 education;type;anonymized feature 55
+114 education;year;id;anonymized feature 66
+148 gender;anonymized feature 78
+228 locale;anonymized feature 127
+
+circle8: 3221,2675,3411,3097,3340,2674,2720,
+Number of common features:8
+100 education;school;id;anonymized feature 538
+101 education;type;anonymized feature 53
+103 education;type;anonymized feature 55
+112 education;year;id;anonymized feature 64
+148 gender;anonymized feature 78
+228 locale;anonymized feature 127
+281 work;end_date;anonymized feature 166
+291 work;location;id;anonymized feature 617
+312 work;start_date;anonymized feature 199
+
+circle9: 2849,2688,2970,2691,2793,2677,3319,
+Number of common features:8
+100 education;school;id;anonymized feature 538
+101 education;type;anonymized feature 53
+103 education;type;anonymized feature 55
+106 education;year;id;anonymized feature 59
+113 education;year;id;anonymized feature 65
+148 gender;anonymized feature 78
+228 locale;anonymized feature 127
+281 work;end_date;anonymized feature 166
+312 work;start_date;anonymized feature 199
+
+circle10: 3141,3200,3420,3001,2869,2870,1405,3331,3299,58,3361,3397,3264,3304,2723,2787,2936,2663,3316,3383,2833,3176,3326,2753,3106,3061,3157,2697,3373,2999,2892,3206,2898,3311,2820,2829,3262,3395,2678,3355,2698,3214,2801,3189,3329,3020,3307,3024,3099,3051,3343,2926,3070,2802,2954,3083,3068,2693,2822,3069,
+Number of common features:5
+100 education;school;id;anonymized feature 538
+101 education;type;anonymized feature 53
+103 education;type;anonymized feature 55
+148 gender;anonymized feature 78
+228 locale;anonymized feature 127
+
+circle11: 3401,3427,2690,2868,2871,3050,3098,3284,2767,3059,2979,3291,3009,3431,3349,2859,2933,
+Number of common features:6
+5 birthday;anonymized feature 6
+101 education;type;anonymized feature 53
+103 education;type;anonymized feature 55
+112 education;year;id;anonymized feature 64
+148 gender;anonymized feature 78
+228 locale;anonymized feature 127
+
+circle12: 3077,3327,2718,3196,2689,2969,2952,3055,
+Number of common features:5
+101 education;type;anonymized feature 53
+103 education;type;anonymized feature 55
+112 education;year;id;anonymized feature 64
+148 gender;anonymized feature 78
+228 locale;anonymized feature 127
+278 work;end_date;anonymized feature 162
+
+circle13: 2694,2782,2925,
+Number of common features:5
+70 education;school;id;anonymized feature 1040
+101 education;type;anonymized feature 53
+103 education;type;anonymized feature 55
+112 education;year;id;anonymized feature 64
+154 hometown;id;anonymized feature 935
+
+circle14: 2825,3313,2784,2813,2740,171,1171,2704,3173,
+Number of common features:5
+101 education;type;anonymized feature 53
+102 education;type;anonymized feature 54
+103 education;type;anonymized feature 55
+116 education;year;id;anonymized feature 69
+148 gender;anonymized feature 78
+228 locale;anonymized feature 127
+
+circle15: 2863,3422,2781,3280,2792,3195,2960,2985,2814,2911,2817,3324,2766,3243,2777,3114,2920,3004,2673,3202,2827,2915,2929,3384,2928,2679,3014,2862,2890,3064,3351,3425,2912,3399,3054,2850,2864,
+Number of common features:4
+101 education;type;anonymized feature 53
+103 education;type;anonymized feature 55
+147 gender;anonymized feature 77
+228 locale;anonymized feature 127
+
+circle16: 2884,2961,2737,2962,3432,3170,2845,2995,2927,3040,2896,3163,3213,3363,3033,3430,3092,2877,3414,2705,2924,2854,3388,3047,3166,2759,3362,2683,3044,2756,3183,3229,2873,3084,3400,2993,3022,3435,2773,3364,2953,3238,3026,3029,2967,3135,2987,3158,2988,2810,2729,2887,2874,2981,2731,3231,2794,2821,2789,3036,2839,2944,2807,2978,3130,2809,3257,2769,3143,3042,2888,3303,2743,3090,3293,2681,3104,2738,2786,2949,3063,3368,2714,2983,3232,3038,3087,2668,2749,2908,3375,3035,3187,3039,3142,2751,3093,3132,3277,2796,2672,2700,2904,2696,3246,3263,3265,2765,2779,2730,3434,3212,3177,2996,3298,3194,3352,3338,3348,3283,3413,3031,2846,3053,3017,3389,3424,2776,3281,3025,3123,3387,3226,2816,3003,3108,2734,3160,3180,2883,3019,1666,3337,3347,3134,2865,3113,3159,3393,3253,2745,3005,3396,3287,3377,2684,2937,3128,3169,2708,3095,3201,3428,2701,3190,3199,3248,3254,3258,3274,3328,1758,3332,3376,3380,3416,2736,2741,2761,2764,2771,2797,2805,2812,2826,2834,2836,2857,2894,2935,2941,2963,2964,2966,2968,2991,2994,3000,3006,3012,3015,3030,3056,3060,3062,3066,3072,3074,3096,3118,3152,1534,3164,3171,3179,3182,2724,2866,2867,2880,2885,2902,2939,2956,2984,3011,3027,1642,3285,3301,3405,3407,3408,3057,3111,3230,3370,990,3127,2676,2752,3105,3131,2852,2917,2837,2945,3065,3227,3220,2872,2680,3045,3052,2906,3339,3398,860,3071,3013,3058,3175,3300,2682,3354,2860,3270,2838,3282,3290,2972,3155,2905,2843,3294,3023,3390,2815,3193,3250,3271,3269,2726,3153,2800,2666,2750,2710,3317,2669,2974,2757,2706,3174,2943,3085,3436,2755,3129,2768,3032,2955,2957,2914,2662,3002,2702,2711,2819,3219,3305,2808,2758,3075,3419,3192,2918,2895,3276,2903,3223,2748,3236,2934,2661,3256,2921,3115,3154,3249,2858,2989,2744,2841,3297,3323,
+Number of common features:2
+148 gender;anonymized feature 78
+228 locale;anonymized feature 127
+

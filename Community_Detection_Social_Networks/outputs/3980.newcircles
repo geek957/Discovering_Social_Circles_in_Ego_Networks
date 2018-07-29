@@ -1,0 +1,160 @@
+circle0: 3982,
+Number of common features:9
+5 education;type;anonymized feature 53
+6 education;type;anonymized feature 54
+7 education;type;anonymized feature 55
+10 education;year;id;anonymized feature 253
+20 gender;anonymized feature 78
+27 locale;anonymized feature 127
+32 work;employer;id;anonymized feature 1279
+33 work;employer;id;anonymized feature 1280
+39 work;start_date;anonymized feature 1281
+
+circle1: 4003,
+Number of common features:7
+2 education;degree;id;anonymized feature 22
+6 education;type;anonymized feature 54
+16 education;year;id;anonymized feature 1273
+20 gender;anonymized feature 78
+22 languages;id;anonymized feature 90
+23 languages;id;anonymized feature 92
+32 work;employer;id;anonymized feature 1279
+
+circle2: 4013,
+Number of common features:7
+7 education;type;anonymized feature 55
+12 education;year;id;anonymized feature 1271
+19 gender;anonymized feature 77
+27 locale;anonymized feature 127
+28 location;id;anonymized feature 128
+30 political;anonymized feature 1278
+34 work;employer;id;anonymized feature 52
+
+circle3: 4018,
+Number of common features:10
+4 education;school;id;anonymized feature 52
+5 education;type;anonymized feature 53
+7 education;type;anonymized feature 55
+10 education;year;id;anonymized feature 253
+13 education;year;id;anonymized feature 254
+14 education;year;id;anonymized feature 62
+19 gender;anonymized feature 77
+27 locale;anonymized feature 127
+37 work;end_date;anonymized feature 157
+38 work;start_date;anonymized feature 157
+
+circle4: 4030,
+Number of common features:15
+1 education;concentration;id;anonymized feature 14
+2 education;degree;id;anonymized feature 22
+5 education;type;anonymized feature 53
+6 education;type;anonymized feature 54
+7 education;type;anonymized feature 55
+9 education;year;id;anonymized feature 57
+10 education;year;id;anonymized feature 253
+16 education;year;id;anonymized feature 1273
+18 education;year;id;anonymized feature 257
+20 gender;anonymized feature 78
+22 languages;id;anonymized feature 90
+23 languages;id;anonymized feature 92
+27 locale;anonymized feature 127
+31 work;employer;id;anonymized feature 140
+41 work;start_date;anonymized feature 1282
+
+circle5: 3989,3991,
+Number of common features:6
+1 education;concentration;id;anonymized feature 14
+4 education;school;id;anonymized feature 52
+6 education;type;anonymized feature 54
+20 gender;anonymized feature 78
+27 locale;anonymized feature 127
+28 location;id;anonymized feature 128
+
+circle6: 4010,4019,
+Number of common features:9
+4 education;school;id;anonymized feature 52
+5 education;type;anonymized feature 53
+6 education;type;anonymized feature 54
+7 education;type;anonymized feature 55
+18 education;year;id;anonymized feature 257
+20 gender;anonymized feature 78
+27 locale;anonymized feature 127
+37 work;end_date;anonymized feature 157
+38 work;start_date;anonymized feature 157
+
+circle7: 3981,4036,3992,4024,
+Number of common features:5
+4 education;school;id;anonymized feature 52
+5 education;type;anonymized feature 53
+6 education;type;anonymized feature 54
+7 education;type;anonymized feature 55
+19 gender;anonymized feature 77
+27 locale;anonymized feature 127
+
+circle8: 4006,4020,
+Number of common features:5
+1 education;concentration;id;anonymized feature 14
+5 education;type;anonymized feature 53
+7 education;type;anonymized feature 55
+16 education;year;id;anonymized feature 1273
+27 locale;anonymized feature 127
+
+circle9: 4014,3985,4000,
+Number of common features:4
+5 education;type;anonymized feature 53
+6 education;type;anonymized feature 54
+20 gender;anonymized feature 78
+27 locale;anonymized feature 127
+
+circle10: 4023,4031,
+Number of common features:5
+4 education;school;id;anonymized feature 52
+6 education;type;anonymized feature 54
+20 gender;anonymized feature 78
+27 locale;anonymized feature 127
+35 work;employer;id;anonymized feature 154
+
+circle11: 3997,4017,4011,4026,4027,4032,3983,3984,3988,3995,3996,3998,4008,4009,4012,4033,3994,4029,
+Number of common features:1
+20 gender;anonymized feature 78
+27 locale;anonymized feature 127
+
+circle12: 3999,4005,3986,4021,
+Number of common features:5
+4 education;school;id;anonymized feature 52
+5 education;type;anonymized feature 53
+6 education;type;anonymized feature 54
+7 education;type;anonymized feature 55
+20 gender;anonymized feature 78
+27 locale;anonymized feature 127
+
+circle13: 3993,4015,4001,4035,
+Number of common features:2
+5 education;type;anonymized feature 53
+7 education;type;anonymized feature 55
+
+circle14: 4028,594,4002,
+Number of common features:7
+4 education;school;id;anonymized feature 52
+5 education;type;anonymized feature 53
+6 education;type;anonymized feature 54
+20 gender;anonymized feature 78
+23 languages;id;anonymized feature 92
+27 locale;anonymized feature 127
+31 work;employer;id;anonymized feature 140
+
+circle15: 4007,4016,3990,3987,4025,
+Number of common features:1
+26 locale;anonymized feature 125
+
+circle16: 4004,4034,4037,4038,
+Number of common features:5
+1 education;concentration;id;anonymized feature 14
+2 education;degree;id;anonymized feature 22
+5 education;type;anonymized feature 53
+6 education;type;anonymized feature 54
+7 education;type;anonymized feature 55
+20 gender;anonymized feature 78
+23 languages;id;anonymized feature 92
+27 locale;anonymized feature 127
+
